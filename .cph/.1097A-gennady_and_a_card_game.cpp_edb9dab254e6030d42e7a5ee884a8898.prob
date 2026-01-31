@@ -1,0 +1,1 @@
+{"name":"Local: 1097A-gennady_and_a_card_game","url":"e:\\cp_practise\\1097A-gennady_and_a_card_game.cpp","tests":[{"id":1769325213075,"input":"AS\n2H 4C TH JH AD\n","output":"YES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cp_practise\\1097A-gennady_and_a_card_game.cpp","group":"local","local":true}
